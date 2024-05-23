@@ -1,0 +1,11 @@
+.btn {
+  padding: 6px;
+  background: #000;
+  border-radius: 5px;
+  color: wheat;
+  border: 0;
+
+  &:hover {
+    opacity: 0.6;
+  }
+}
